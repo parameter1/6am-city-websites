@@ -1,8 +1,8 @@
 {
-  "name": "@6am/websites",
-  "description": "Websites for 6am City",
+  "name": "@6am-city/websites",
+  "description": "Websites for 6AM City",
   "author": "Brandon Krigbaum <brandon@parameter1.com>",
-  "repository": "https://github.com/parameter1/6am-websites.git",
+  "repository": "https://github.com/parameter1/6am-city-websites.git",
   "license": "MIT",
   "private": true,
   "root": true,
